@@ -611,12 +611,24 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -661,13 +673,73 @@
         "uuid": "59fb818d-89a2-4fec-918a-42976325079d"
       }
     ],
-    "used_designators": "J1-5,SW1-2,CX1-4,R1-8,L1-2,C1-24,Y1-4,#PWR1-28,RX1-4,U1-4",
+    "used_designators": "U1-4,RX1-4,FB1-3,#PWR1-60,Y1-4,D1,C1-47,L1-3,R1-11,CX1-4,SW1-7,J1-17",
     "variants": []
   },
   "sheets": [
     [
       "59fb818d-89a2-4fec-918a-42976325079d",
       "Root"
+    ],
+    [
+      "f0c5dac2-e2d5-4bb6-90d4-372b49657e0b",
+      "ESP32-S3 MCU"
+    ],
+    [
+      "4159d440-b4ab-4425-b126-33ca88c5579d",
+      "ANTENNA"
+    ],
+    [
+      "d4771971-bce2-46e7-bf81-9ee6ae457f58",
+      "XTAL_40MHZ"
+    ],
+    [
+      "34792515-74f8-425e-8097-ca831e24b424",
+      "XTAL_32K_RTC"
+    ],
+    [
+      "08fc498b-0362-4639-8258-6b1363fcdc91",
+      "EN"
+    ],
+    [
+      "ea117786-07a1-4c4f-88ab-24b48b21627b",
+      "USB_C_RECEPTACLE"
+    ],
+    [
+      "3eeb1a6c-8d40-4942-bfeb-127665424d99",
+      "MEMORY"
+    ],
+    [
+      "4365f363-dc55-4109-b996-17f3f365f841",
+      "STRAPPING"
+    ],
+    [
+      "a6930468-3295-4954-a83d-ea3f44888009",
+      "GPIO"
+    ],
+    [
+      "c0cd88c9-43ea-4d15-a778-7f6969ee9636",
+      "GPIO_CLUSTER"
+    ],
+    [
+      "e5081cb5-7cd1-4fab-89e3-4b85fc1f336d",
+      "GPIO_CLUSTER1"
+    ],
+    [
+      "9350a02e-2f10-4ecc-922a-85baace9d10a",
+      "GPIO_CLUSTER2"
+    ],
+    [
+      "2523cc3d-7b87-4688-8ee4-d8293bd6c074",
+      "GPIO_CLUSTER3"
+    ],
+    [
+      "1bf12800-2ad1-486c-8b11-b461417f8c63",
+      "DECOUPLING"
+    ],
+    [
+      "27bbbde4-e3fa-4f74-928c-cd046e3eae1f",
+      "POWER"
     ]
   ],
   "text_variables": {},

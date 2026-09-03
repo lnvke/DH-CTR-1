@@ -1,0 +1,837 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "2950258e-901a-4111-bede-b5d62eeb9807")
+	(paper "User" 381 254)
+	(lib_symbols)
+	(junction
+		(at 215.9 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2fabd5c5-57bc-4b46-b123-9a5154b75dbd")
+	)
+	(junction
+		(at 215.9 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8978c5b5-5da0-4153-816f-9a6ac5cf5653")
+	)
+	(junction
+		(at 215.9 132.08)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "aa0a0a65-8488-4838-a605-b4da908f2b6b")
+	)
+	(wire
+		(pts
+			(xy 205.74 116.84) (xy 201.93 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "018529ef-ef21-440a-b460-906f03936642")
+	)
+	(wire
+		(pts
+			(xy 205.74 134.62) (xy 201.93 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02f95741-ed16-4d8c-8b5f-b60e9bed7fec")
+	)
+	(wire
+		(pts
+			(xy 205.74 114.3) (xy 201.93 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0dd9f68d-d5ab-4baf-a0ab-fc4dc5714fbf")
+	)
+	(wire
+		(pts
+			(xy 205.74 119.38) (xy 201.93 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "176aa308-7ee5-416f-959e-f9752bb8ee07")
+	)
+	(wire
+		(pts
+			(xy 205.74 121.92) (xy 201.93 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "25d0947e-2b38-478c-a75f-b5053d697312")
+	)
+	(wire
+		(pts
+			(xy 205.74 162.56) (xy 201.93 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31c7de80-e63d-43fe-8065-00538f81a71f")
+	)
+	(wire
+		(pts
+			(xy 205.74 101.6) (xy 201.93 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "329556b4-7b81-4bd6-ae03-724f869a98ce")
+	)
+	(wire
+		(pts
+			(xy 215.9 132.08) (xy 215.9 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35f531d9-ade1-4e2c-ba9d-b87f6a0f4b37")
+	)
+	(wire
+		(pts
+			(xy 201.93 132.08) (xy 215.9 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3883d5d4-0dde-4216-9aaf-6c6a76575ffd")
+	)
+	(wire
+		(pts
+			(xy 205.74 99.06) (xy 201.93 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3bc9184a-cbf3-438b-930b-e2ba6cfe65e7")
+	)
+	(wire
+		(pts
+			(xy 205.74 96.52) (xy 201.93 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52edc287-2519-4a4b-ac28-bc28edfa0325")
+	)
+	(wire
+		(pts
+			(xy 205.74 142.24) (xy 201.93 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54d7c1e1-3ac0-4723-8668-8988f44ff051")
+	)
+	(wire
+		(pts
+			(xy 205.74 160.02) (xy 201.93 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7551dc3b-c54e-45c7-8812-f9b298a810bd")
+	)
+	(wire
+		(pts
+			(xy 215.9 152.4) (xy 201.93 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "848b5a8c-834c-41d4-ad1d-d148d418c924")
+	)
+	(wire
+		(pts
+			(xy 205.74 93.98) (xy 201.93 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87a7963c-2582-4868-b044-714c413c4a54")
+	)
+	(wire
+		(pts
+			(xy 205.74 137.16) (xy 201.93 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f360937-eb78-4c9c-a20b-e824f714074d")
+	)
+	(wire
+		(pts
+			(xy 205.74 154.94) (xy 201.93 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac9a4320-2c19-40de-9cb8-7c0175f82a08")
+	)
+	(wire
+		(pts
+			(xy 215.9 111.76) (xy 215.9 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b01b610f-c1d2-40f3-9c78-b179ade67651")
+	)
+	(wire
+		(pts
+			(xy 219.71 91.44) (xy 215.9 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba835af2-6f95-4564-9e8f-800c84c1946c")
+	)
+	(wire
+		(pts
+			(xy 201.93 91.44) (xy 215.9 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c11a0e24-bd07-41b9-b21c-d9c569134df1")
+	)
+	(wire
+		(pts
+			(xy 215.9 91.44) (xy 215.9 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0f339aa-0d08-4e76-ba2c-d7fc1ec0057f")
+	)
+	(wire
+		(pts
+			(xy 205.74 139.7) (xy 201.93 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e42c8780-963a-4c49-b865-203851d76436")
+	)
+	(wire
+		(pts
+			(xy 205.74 157.48) (xy 201.93 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eaf9f485-5b42-4a3b-8347-d9fe107521ee")
+	)
+	(wire
+		(pts
+			(xy 201.93 111.76) (xy 215.9 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ebddebd1-de41-4e58-86fd-6694d6ba4cdb")
+	)
+	(hierarchical_label "GPIO12"
+		(shape bidirectional)
+		(at 205.74 139.7 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0df3143f-6976-4c5c-aefc-f80f0eea115c")
+	)
+	(hierarchical_label "GPIO9"
+		(shape bidirectional)
+		(at 205.74 121.92 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1a3f3522-45e8-44f4-b1a6-7d2f04dd7ad3")
+	)
+	(hierarchical_label "GPIO21"
+		(shape bidirectional)
+		(at 205.74 162.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1da18996-8cdc-4c50-9160-b890705aa18f")
+	)
+	(hierarchical_label "GPIO8"
+		(shape bidirectional)
+		(at 205.74 119.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "38493d71-33c9-4d25-9479-8c2857075f1e")
+	)
+	(hierarchical_label "GPIO10"
+		(shape bidirectional)
+		(at 205.74 134.62 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3c8ca559-15ea-4cf6-88dc-bcf75580e37b")
+	)
+	(hierarchical_label "GPIO18"
+		(shape bidirectional)
+		(at 205.74 160.02 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4c3c9de7-c753-4b8b-a328-78287649d3ab")
+	)
+	(hierarchical_label "GPIO2"
+		(shape bidirectional)
+		(at 205.74 96.52 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5eb9ec3f-327c-4def-81c6-e8f5950e2fcf")
+	)
+	(hierarchical_label "VDD_GPIO"
+		(shape input)
+		(at 219.71 91.44 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "60b24825-4270-4816-adf8-1f259227248c")
+	)
+	(hierarchical_label "GPIO17"
+		(shape bidirectional)
+		(at 205.74 157.48 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6e7bb109-e78b-4994-894a-fd02b510d2ee")
+	)
+	(hierarchical_label "GPIO4"
+		(shape bidirectional)
+		(at 205.74 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7538c1ee-ef75-4e85-bac5-3ba7122fac97")
+	)
+	(hierarchical_label "GPIO14"
+		(shape bidirectional)
+		(at 205.74 154.94 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8a6d8881-d4e7-4c6c-a4c4-5c12d827b463")
+	)
+	(hierarchical_label "GPIO11"
+		(shape bidirectional)
+		(at 205.74 137.16 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8cf32c31-aef5-44ca-9b99-20aa24e9142b")
+	)
+	(hierarchical_label "GPIO6"
+		(shape bidirectional)
+		(at 205.74 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9db516de-cffc-4258-a450-b43cd1d7ab3d")
+	)
+	(hierarchical_label "GPIO1"
+		(shape bidirectional)
+		(at 205.74 93.98 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a75a9869-f862-4f2b-bca8-253786bbf89d")
+	)
+	(hierarchical_label "GPIO13"
+		(shape bidirectional)
+		(at 205.74 142.24 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b1d2a1d4-d0c4-4b4d-90c3-570735b1c7c7")
+	)
+	(hierarchical_label "GPIO5"
+		(shape bidirectional)
+		(at 205.74 101.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e33e35d1-31ad-482c-93f4-ca05498b8ed2")
+	)
+	(hierarchical_label "GPIO7"
+		(shape bidirectional)
+		(at 205.74 116.84 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e69407d8-50f8-45e4-a024-a358194eed12")
+	)
+	(sheet
+		(at 187.96 149.86)
+		(size 13.97 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "2523cc3d-7b87-4688-8ee4-d8293bd6c074")
+		(property "Sheetname" "GPIO_CLUSTER3"
+			(at 187.96 149.1484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "gpio_cluster.kicad_sch"
+			(at 187.96 165.6846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "GPIO14" bidirectional
+			(at 201.93 154.94 0)
+			(uuid "37daa385-222f-4fd3-8bfc-88db320fc2ad")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO17" bidirectional
+			(at 201.93 157.48 0)
+			(uuid "bd7af690-0488-46a5-a069-01bd61333cb0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO18" bidirectional
+			(at 201.93 160.02 0)
+			(uuid "78ba12d5-a6da-46f0-a6ee-9ee826cd84f8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO21" bidirectional
+			(at 201.93 162.56 0)
+			(uuid "d5a8019d-4034-41ca-8f71-75be2d7730de")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "VDD" input
+			(at 201.93 152.4 0)
+			(uuid "8857e8b2-6f46-4243-a77d-affd3f0d0470")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "CTR-1"
+				(path "/59fb818d-89a2-4fec-918a-42976325079d/a6930468-3295-4954-a83d-ea3f44888009"
+					(page "14")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 187.96 129.54)
+		(size 13.97 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "9350a02e-2f10-4ecc-922a-85baace9d10a")
+		(property "Sheetname" "GPIO_CLUSTER2"
+			(at 187.96 128.8284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "gpio_cluster.kicad_sch"
+			(at 187.96 145.3646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "GPIO10" bidirectional
+			(at 201.93 134.62 0)
+			(uuid "80ba487d-cb30-497e-b216-3f270ee67aa1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO11" bidirectional
+			(at 201.93 137.16 0)
+			(uuid "68f213b2-6abc-4384-96c6-90d4a5e2f3d2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO12" bidirectional
+			(at 201.93 139.7 0)
+			(uuid "08005399-f936-4a2e-8d8c-9964261a191c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO13" bidirectional
+			(at 201.93 142.24 0)
+			(uuid "b52380bb-2070-42f4-8c89-1ca85b201c09")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "VDD" input
+			(at 201.93 132.08 0)
+			(uuid "725d9cff-d57b-47ef-9719-6fe4c37ef414")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "CTR-1"
+				(path "/59fb818d-89a2-4fec-918a-42976325079d/a6930468-3295-4954-a83d-ea3f44888009"
+					(page "13")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 187.96 88.9)
+		(size 13.97 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "c0cd88c9-43ea-4d15-a778-7f6969ee9636")
+		(property "Sheetname" "GPIO_CLUSTER"
+			(at 187.96 88.1884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "gpio_cluster.kicad_sch"
+			(at 187.96 104.7246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "GPIO1" bidirectional
+			(at 201.93 93.98 0)
+			(uuid "8ab69d44-315e-41cd-b296-9ff2e7e83248")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO2" bidirectional
+			(at 201.93 96.52 0)
+			(uuid "1987be5e-aacc-4d61-b179-7f6d19b3724d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO4" bidirectional
+			(at 201.93 99.06 0)
+			(uuid "518ea72a-1a95-4532-a229-8b49ba0548e4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO5" bidirectional
+			(at 201.93 101.6 0)
+			(uuid "27ae7c63-78fb-4a1d-99e5-27faec6b1251")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "VDD" bidirectional
+			(at 201.93 91.44 0)
+			(uuid "e906cd51-4e4d-414b-bc66-55c505087083")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "CTR-1"
+				(path "/59fb818d-89a2-4fec-918a-42976325079d/a6930468-3295-4954-a83d-ea3f44888009"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 187.96 109.22)
+		(size 13.97 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "e5081cb5-7cd1-4fab-89e3-4b85fc1f336d")
+		(property "Sheetname" "GPIO_CLUSTER1"
+			(at 187.96 108.5084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "gpio_cluster.kicad_sch"
+			(at 187.96 125.0446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "GPIO6" bidirectional
+			(at 201.93 114.3 0)
+			(uuid "32d473f6-a996-4ea3-8d26-e79e62ecd0d9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO7" bidirectional
+			(at 201.93 116.84 0)
+			(uuid "b9e5129a-7221-47f2-9103-ad08d1291225")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO8" bidirectional
+			(at 201.93 119.38 0)
+			(uuid "a2a3622f-5b30-4dde-b898-c1a2020b8081")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO9" bidirectional
+			(at 201.93 121.92 0)
+			(uuid "89288057-24a7-4558-885c-89c4d7446abb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "VDD" input
+			(at 201.93 111.76 0)
+			(uuid "f92ff85b-a4e1-46ff-b7a1-81e8716a3f80")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "CTR-1"
+				(path "/59fb818d-89a2-4fec-918a-42976325079d/a6930468-3295-4954-a83d-ea3f44888009"
+					(page "12")
+				)
+			)
+		)
+	)
+)
