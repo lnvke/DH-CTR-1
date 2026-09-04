@@ -623,6 +623,30 @@
           "label": "Description",
           "name": "Description",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PROD_ID",
+          "name": "PROD_ID",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Iq",
+          "name": "Iq",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "VMax",
+          "name": "VMax",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "IMax",
+          "name": "IMax",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -673,7 +697,7 @@
         "uuid": "59fb818d-89a2-4fec-918a-42976325079d"
       }
     ],
-    "used_designators": "U1-4,RX1-4,FB1-3,#PWR1-60,Y1-4,D1,C1-47,L1-3,R1-11,CX1-4,SW1-7,J1-17",
+    "used_designators": "F1,U1-7,RX1-4,FB1-7,#PWR1-60,Y1-4,D1,C1-47,L1-3,R1-32,CX1-4,SW1-7,J1-18",
     "variants": []
   },
   "sheets": [
@@ -703,7 +727,7 @@
     ],
     [
       "ea117786-07a1-4c4f-88ab-24b48b21627b",
-      "USB_C_RECEPTACLE"
+      "USB_C"
     ],
     [
       "3eeb1a6c-8d40-4942-bfeb-127665424d99",
@@ -738,8 +762,24 @@
       "DECOUPLING"
     ],
     [
-      "27bbbde4-e3fa-4f74-928c-cd046e3eae1f",
-      "POWER"
+      "8d5143ad-0f32-47f8-a7cc-18e0c8f4bcd8",
+      "GPIO_CLUSTER4"
+    ],
+    [
+      "e0d210c3-70db-4873-a789-e542282835db",
+      "JTAG_PINS"
+    ],
+    [
+      "97701b60-d3a2-443e-91df-16d510ac3fdf",
+      "GPIO_CLUSTER5"
+    ],
+    [
+      "954709bb-d21a-4155-b129-c6e968e992b2",
+      "UART_PINS"
+    ],
+    [
+      "4ab54a93-ce3e-4d36-ab13-5a839d38f26c",
+      "POWER_MANAGEMENT"
     ]
   ],
   "text_variables": {},

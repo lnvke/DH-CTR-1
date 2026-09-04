@@ -2270,7 +2270,7 @@
 		(uuid "1f4851e4-a743-42e1-996a-fc74b32a6b93")
 	)
 	(hierarchical_label "MTCK"
-		(shape bidirectional)
+		(shape input)
 		(at 222.25 134.62 0)
 		(effects
 			(font
@@ -2325,7 +2325,7 @@
 		(uuid "31c78128-69f9-47dd-92c1-e6be339be03e")
 	)
 	(hierarchical_label "U0RXD"
-		(shape bidirectional)
+		(shape input)
 		(at 222.25 147.32 0)
 		(effects
 			(font
@@ -2336,7 +2336,7 @@
 		(uuid "35013a12-e74f-4a89-b963-62c5cf367343")
 	)
 	(hierarchical_label "MTDO"
-		(shape bidirectional)
+		(shape output)
 		(at 222.25 137.16 0)
 		(effects
 			(font
@@ -2424,7 +2424,7 @@
 		(uuid "7e083cf9-b575-4a35-9daa-33ffab0d44e2")
 	)
 	(hierarchical_label "MTMS"
-		(shape bidirectional)
+		(shape input)
 		(at 222.25 142.24 0)
 		(effects
 			(font
@@ -2435,7 +2435,7 @@
 		(uuid "81aa7f87-7536-487e-adc5-956d0b19ce52")
 	)
 	(hierarchical_label "U0TXD"
-		(shape bidirectional)
+		(shape output)
 		(at 222.25 144.78 0)
 		(effects
 			(font
@@ -2545,7 +2545,7 @@
 		(uuid "a95a4447-e0e7-4bb2-a39b-2b87796d8b84")
 	)
 	(hierarchical_label "MTDI"
-		(shape bidirectional)
+		(shape input)
 		(at 222.25 139.7 0)
 		(effects
 			(font
@@ -3023,7 +3023,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ae76b434-395f-4cea-a30d-87fde8f4ac44")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR01"
 			(at 190.5 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -3083,7 +3083,7 @@
 		(instances
 			(project "CTR-1"
 				(path "/59fb818d-89a2-4fec-918a-42976325079d/f0c5dac2-e2d5-4bb6-90d4-372b49657e0b"
-					(reference "#PWR03")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)

@@ -785,7 +785,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3257077a-1bcf-4fd4-ae5c-a948f56b9bb1")
-		(property "Reference" "J4"
+		(property "Reference" "J1"
 			(at 204.47 120.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -847,7 +847,7 @@
 		(instances
 			(project "CTR-1"
 				(path "/59fb818d-89a2-4fec-918a-42976325079d/4159d440-b4ab-4425-b126-33ca88c5579d"
-					(reference "J4")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -947,7 +947,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "85228a01-b603-4509-99d9-d74daf3f7d6d")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR02"
 			(at 185.42 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -1007,7 +1007,7 @@
 		(instances
 			(project "CTR-1"
 				(path "/59fb818d-89a2-4fec-918a-42976325079d/4159d440-b4ab-4425-b126-33ca88c5579d"
-					(reference "#PWR04")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -1107,7 +1107,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dbd470ab-834a-4a84-9831-5d550ced2f18")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR04"
 			(at 204.47 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -1167,7 +1167,7 @@
 		(instances
 			(project "CTR-1"
 				(path "/59fb818d-89a2-4fec-918a-42976325079d/4159d440-b4ab-4425-b126-33ca88c5579d"
-					(reference "#PWR06")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -1185,7 +1185,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e1eec24b-7095-4d54-935f-1737e2d6cfa0")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR03"
 			(at 195.58 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -1245,7 +1245,7 @@
 		(instances
 			(project "CTR-1"
 				(path "/59fb818d-89a2-4fec-918a-42976325079d/4159d440-b4ab-4425-b126-33ca88c5579d"
-					(reference "#PWR05")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)

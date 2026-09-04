@@ -839,7 +839,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0f5c9ae7-cb0d-4c45-8ebd-beb82494f061")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR06"
 			(at 190.5 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -899,7 +899,7 @@
 		(instances
 			(project "CTR-1"
 				(path "/59fb818d-89a2-4fec-918a-42976325079d/34792515-74f8-425e-8097-ca831e24b424"
-					(reference "#PWR08")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)

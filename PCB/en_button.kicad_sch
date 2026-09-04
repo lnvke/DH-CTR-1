@@ -942,7 +942,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1aa38211-7db2-420a-821b-e3e5aebae5b5")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR010"
 			(at 194.31 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -1002,7 +1002,7 @@
 		(instances
 			(project "CTR-1"
 				(path "/59fb818d-89a2-4fec-918a-42976325079d/08fc498b-0362-4639-8258-6b1363fcdc91"
-					(reference "#PWR012")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -1122,7 +1122,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 180.0352 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -1345,7 +1345,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a928e570-08f6-48b7-82ca-bbbb3b8abdc0")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR09"
 			(at 194.31 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -1405,7 +1405,7 @@
 		(instances
 			(project "CTR-1"
 				(path "/59fb818d-89a2-4fec-918a-42976325079d/08fc498b-0362-4639-8258-6b1363fcdc91"
-					(reference "#PWR011")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -1423,7 +1423,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b7105c69-e211-4a98-b5eb-cae299437818")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR08"
 			(at 186.69 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -1483,7 +1483,7 @@
 		(instances
 			(project "CTR-1"
 				(path "/59fb818d-89a2-4fec-918a-42976325079d/08fc498b-0362-4639-8258-6b1363fcdc91"
-					(reference "#PWR010")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -1501,7 +1501,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e87426f9-8bba-44b9-8dac-e233f93c5dbb")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR07"
 			(at 179.07 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -1561,7 +1561,7 @@
 		(instances
 			(project "CTR-1"
 				(path "/59fb818d-89a2-4fec-918a-42976325079d/08fc498b-0362-4639-8258-6b1363fcdc91"
-					(reference "#PWR09")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
