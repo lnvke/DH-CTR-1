@@ -875,19 +875,18 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MATCH"
+		(property "Value" "2.7n"
 			(at 193.04 125.73 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
-					(color 128 0 0 1)
 				)
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
 			(at 190.5 127 0)
 			(hide yes)
 			(show_name no)
@@ -930,6 +929,87 @@
 			(project "CTR-1"
 				(path "/59fb818d-89a2-4fec-918a-42976325079d/4159d440-b4ab-4425-b126-33ca88c5579d"
 					(reference "L1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 195.58 132.08 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "7981abd8-15e2-4888-8b1d-255de3384c9d")
+		(property "Reference" "C10"
+			(at 195.834 130.81 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "1.8p"
+			(at 195.834 133.35 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 196.5452 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 195.58 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 195.58 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8839896a-acec-41ce-a608-6deabad9ab5a")
+		)
+		(pin "2"
+			(uuid "02c2145d-25cc-4638-8d6b-01d27a35e89c")
+		)
+		(instances
+			(project "CTR-1"
+				(path "/59fb818d-89a2-4fec-918a-42976325079d/4159d440-b4ab-4425-b126-33ca88c5579d"
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -1035,14 +1115,13 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "MATCH"
+		(property "Value" "1.8p"
 			(at 185.674 133.35 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
-					(color 128 0 0 1)
 				)
 				(justify left top)
 			)
@@ -1246,88 +1325,6 @@
 			(project "CTR-1"
 				(path "/59fb818d-89a2-4fec-918a-42976325079d/4159d440-b4ab-4425-b126-33ca88c5579d"
 					(reference "#PWR03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 195.58 132.08 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "f02767a3-603e-41a1-9fa6-8d1cf29713d0")
-		(property "Reference" "C10"
-			(at 195.834 130.81 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "MATCH"
-			(at 195.834 133.35 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(color 128 0 0 1)
-				)
-				(justify left top)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 196.5452 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 195.58 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 195.58 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "888aac67-e849-48cb-9f88-a611f20891ee")
-		)
-		(pin "2"
-			(uuid "f16df313-b1e6-47be-978a-68357d8b4251")
-		)
-		(instances
-			(project "CTR-1"
-				(path "/59fb818d-89a2-4fec-918a-42976325079d/4159d440-b4ab-4425-b126-33ca88c5579d"
-					(reference "C10")
 					(unit 1)
 				)
 			)

@@ -846,7 +846,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5bb33036-f439-4edc-9f76-d07761cdaf7c")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR041"
 			(at 181.61 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -906,7 +906,7 @@
 		(instances
 			(project "CTR-1"
 				(path "/59fb818d-89a2-4fec-918a-42976325079d/e0d210c3-70db-4873-a789-e542282835db"
-					(reference "#PWR042")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -924,7 +924,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c8105a17-d801-4a08-8a9a-3a5c27bf6368")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR040"
 			(at 181.61 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -984,7 +984,7 @@
 		(instances
 			(project "CTR-1"
 				(path "/59fb818d-89a2-4fec-918a-42976325079d/e0d210c3-70db-4873-a789-e542282835db"
-					(reference "#PWR041")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)

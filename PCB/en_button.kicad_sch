@@ -1015,9 +1015,9 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
-		(on_board no)
-		(in_pos_files no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(uuid "1bea9ade-a509-48b5-8d9d-da224178e8e0")
 		(property "Reference" "R1"
@@ -1041,7 +1041,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 196.088 119.38 90)
 			(hide yes)
 			(show_name no)
